@@ -74,4 +74,4 @@ int yywrap() {
 <img width="1495" height="776" alt="image" src="https://github.com/user-attachments/assets/e8015880-4e56-409c-a0f8-6c520f4ad99a" />
 
 # RESULT
-## The lexical analyzer is implemented using lex and the output is verified.
+ The lexical analyzer is implemented using lex and the output is verified.
